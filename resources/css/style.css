@@ -1,0 +1,17 @@
+body {background-color: black; text-align: center}
+
+h1 {font-size: 50px; font-weight: normal; font-family: verdana; color: white;}
+
+h2 {font-size: 42px; font-family: verdana; color: white}
+
+h3 {font-family: verdana; color: white}
+
+video {object-fit: contain;}
+
+.footer {color: grey; text-align: right; font-size: 20px; font-family: verdana;}
+
+a {color: aquamarine;font-size: 16px}
+
+.personal {font-weight: 300; font-family: verdana; font-size: 42px; color: white;}
+
+.excursion {font-size: 21px; color: gray; font-family: verdana;}
